@@ -1,0 +1,54 @@
+https://google.com/about 200 OK
+https://google.com/2002 200 OK
+https://google.com/2001 200 OK
+https://google.com/2004 200 OK
+https://google.com/2005 200 OK
+https://google.com/2003 200 OK
+https://google.com/account 200 OK
+https://google.com/blog 200 OK
+https://google.com/contact 200 OK
+https://google.com/appliance 200 OK
+https://google.com/contacts 200 OK
+https://google.com/creditcards 200 OK
+https://google.com/device 400 Bad Request
+https://google.com/design 200 OK
+https://google.com/docs 200 OK
+https://google.com/developers 200 OK
+https://google.com/devices 200 OK
+https://google.com/inbox 200 OK
+https://google.com/homepage 200 OK
+https://google.com/games 200 OK
+https://google.com/home 200 OK
+https://google.com/images 200 OK
+https://google.com/keep 200 OK
+https://google.com/ping 400 Bad Request
+https://google.com/groups 200 OK
+https://google.com/password 301 Moved Permanently
+https://google.com/history 200 OK
+https://google.com/music 200 OK
+https://google.com/news 200 OK
+https://google.com/phone 200 OK
+https://google.com/mail 200 OK
+https://google.com/navigation 200 OK
+https://google.com/retail 200 OK
+https://google.com/save 200 OK
+https://google.com/saved 200 OK
+https://google.com/research 200 OK
+https://google.com/search 200 OK
+https://google.com/press 200 OK
+https://google.com/services 200 OK
+https://google.com/support 301 Moved Permanently
+https://google.com/publisher 200 OK
+https://google.com/on 200 OK
+https://google.com/security 200 OK
+https://google.com/script 200 OK
+https://google.com/student 200 OK
+https://google.com/sites 200 OK
+https://google.com/store 200 OK
+https://google.com/tools 200 OK
+https://google.com/toolbar 302 Moved Temporarily
+https://google.com/survey 200 OK
+https://google.com/views 200 OK
+https://google.com/webmaster 200 OK
+https://google.com/work 200 OK
+https://google.com/enterprise 200 OK
